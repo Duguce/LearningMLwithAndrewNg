@@ -8,7 +8,7 @@
 |  3   |      ex02-LogisticRegression       |                逻辑回归                |
 |  4   |         ex03-NeuralNetwork         | 手写数字识别（基于逻辑回归和神经网络） |
 |  5   |       ex04-NNbackPropagation       |         神经网络、反向传播算法         |
-|  6   |    COURSERA 机器学习课笔记.pdf     |                课程笔记                |
+|  6   |  机器学习个人笔记完整版v5.52.pdf   |                课程笔记                |
 |  7   | Programming Exercise(代码作业).pdf |                作业合辑                |
 
 注：编程实现基于Python3.7（包括ipynb版和py版）
