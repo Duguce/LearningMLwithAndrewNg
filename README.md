@@ -9,8 +9,9 @@
 |  4   |         ex03-NeuralNetwork         | 手写数字识别（基于逻辑回归和神经网络） |
 |  5   |       ex04-NNbackPropagation       |         神经网络、反向传播算法         |
 |  6   |        ex05-BiasVsVariance         |               偏差与方差               |
-|  7   |  机器学习个人笔记完整版v5.52.pdf   |                课程笔记                |
-|  8   | Programming Exercise(代码作业).pdf |                作业合辑                |
+|  7   |              ex06-SVM              |               支持向量机               |
+|  8   |  机器学习个人笔记完整版v5.52.pdf   |                课程笔记                |
+|  9   | Programming Exercise(代码作业).pdf |                作业合辑                |
 
 注：编程实现基于Python3.7（包括ipynb版和py版）
 
