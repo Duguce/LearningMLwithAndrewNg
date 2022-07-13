@@ -19,8 +19,8 @@
 
 **吴恩达《机器学习》课程**
 
-课程地址：https://www.coursera.org/learn/machine-learning
+课程地址: https://www.coursera.org/learn/machine-learning
 
-部分学习资料来源：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+部分学习资料来源: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
-**说明：**本项目最近更新于<u>*2022/5/25*</u>
+**说明:** 本项目最近更新于<u>*2022/5/25*</u>
