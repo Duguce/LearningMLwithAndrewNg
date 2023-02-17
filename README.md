@@ -1,4 +1,4 @@
-# Coursera-ML-AndrewNg-Homework
+# LearningMLwithAndrewNg
 吴恩达《机器学习》课程作业实现及课件笔记资料
 
 | 序号 |                项目名称                |                  备注                  |
